@@ -42,3 +42,5 @@ cscope.*
 ext.m4
 ext.mk
 tags
+openflow/Cbench
+openflow/oflops
